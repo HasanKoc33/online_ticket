@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "347800906816",
+    "firebase_url": "https://online-ticket-44438-default-rtdb.firebaseio.com",
+    "project_id": "online-ticket-44438",
+    "storage_bucket": "online-ticket-44438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347800906816:android:52b12f8753e61ba65743a5",
+        "android_client_info": {
+          "package_name": "com.firesoft.online_ticked"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJspThwW2Xn_qBdJhKzJGIphZm7ChFT1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

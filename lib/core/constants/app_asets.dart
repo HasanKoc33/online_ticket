@@ -1,0 +1,1 @@
+/// AppAsets enumenum AppAsets {    logo('assets/logo/logo.png'),  loginBackground('assets/images/login_back.jpg'),  pfdFont('assets/font/tr.ttf'),  ;  const AppAsets(this.value,);  /// AppAsets degeri  final String value;}

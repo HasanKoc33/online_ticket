@@ -1,0 +1,22 @@
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flex_color_scheme/flex_color_scheme.dart';
+import 'package:flutter/foundation.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:go_router/go_router.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:online_ticked/core/constants/app_route_names.dart';
+import 'package:online_ticked/data/services/firebase_auth_service.dart';
+import 'package:online_ticked/provider/auth_cubit.dart';
+import 'package:online_ticked/provider/ticket_provider.dart';
+import 'package:online_ticked/ui/screens/auth_pages/login_page/login_page.dart';
+import 'package:online_ticked/ui/screens/create_ticket/create_ticket_screen.dart';
+import 'package:online_ticked/ui/screens/home_screen/home_screen.dart';
+import 'package:online_ticked/ui/screens/ticket_list/ticket_list.dart';
+import 'package:online_ticked/ui/screens/ticket_verification_screen/ticket_verification_screen.dart';
+import 'package:provider/provider.dart';
+import 'package:provider/single_child_widget.dart';
+
+part 'app_providers.dart';
+part 'app_routes.dart';
+part 'app_theme.dart';
